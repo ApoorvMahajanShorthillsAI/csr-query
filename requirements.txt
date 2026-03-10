@@ -1,0 +1,11 @@
+# ── Existing extraction pipeline dependencies ──────────────────────────────
+pdfplumber          # PDF parsing, table + word extraction
+pandas              # DataFrame to markdown table conversion
+tabulate            # Required by pandas .to_markdown()
+Pillow              # Image cropping for figure extraction
+camelot-py[cv]      # Stream-mode table extraction (AE.pdf)
+numpy               # Numerical ops
+
+# ── AI query agent (new) ────────────────────────────────────────────────────
+google-generativeai # Google's client for Gemini/PaLM models
+scikit-learn        # TF-IDF + cosine similarity for retrieval

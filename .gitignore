@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+
+# Data & Artifacts
+Input documents for CSR/
+artifacts/
+*.pdf
+*.md
+!README.md
+
+# OS
+.DS_Store
+Thumbs.db
