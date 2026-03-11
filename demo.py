@@ -18,7 +18,7 @@ from pathlib import Path
 BASE_DIR = str(Path(__file__).parent.resolve())
 
 from ingestion import load_all_assets
-from query_agent import answer, _print_result
+from query_agent import answer
 
 # ── 3 Expert Clinical Queries ─────────────────────────────────────────────────
 # These are crafted to specifically target the richest content across all PDFs:
@@ -84,12 +84,12 @@ def main():
     print("CSR AI QUERY AGENT — DEMO")
     print("=" * 70)
     print(f"\nLoading all assets from: {BASE_DIR}")
-    print("(This may take 1-2 minutes for PDF text extraction…)\n")
+    print("(This may take 1-2 minutes for PDF text extraction...)\n")
 
     # Load once, reuse across all 3 queries
     assets = load_all_assets(BASE_DIR)
 
-    print(f"\n✓ Assets loaded:")
+    print(f"\n> Assets loaded:")
     print(f"  Tables:      {len(assets['tables'])}")
     print(f"  Figures:     {len(assets['figures'])}")
     print(f"  Text chunks: {len(assets['text_chunks'])}")
@@ -111,8 +111,14 @@ def main():
         )
         elapsed = time.time() - start
 
-        _print_result(result)
-        print(f"[Completed in {elapsed:.1f}s]\n")
+        # Output the result as a PDF report
+        result['title'] = q['label'].replace("—", "-")
+        output_name = f"Demo_Query_{i}_Report.pdf"
+        
+        from generate_report import generate_pdf
+        generate_pdf([result], output_name)
+        
+        print(f"[Completed in {elapsed:.1f}s] -> Generated: {output_name}\n")
 
         # Small pause between API calls
         if i < len(QUERIES):

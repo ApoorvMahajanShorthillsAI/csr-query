@@ -251,5 +251,17 @@ if __name__ == "__main__":
         print("Usage: python query_agent.py \"Your question here\"")
         sys.exit(1)
     query_input = " ".join(sys.argv[1:])
+    
+    print("\nRunning CSR Query Agent...")
+    print(f"Query: {query_input}\n")
+    
     res = answer(query_input)
-    _print_result(res)
+    res['title'] = "Custom CLI Query"
+    
+    try:
+        from generate_report import generate_pdf
+        output_file = "CSR_Custom_Query_Report.pdf"
+        generate_pdf([res], output_file)
+        print(f"\nSuccess! Report generated: {output_file}")
+    except ImportError:
+        print("\nERROR: Could not import 'generate_pdf' from generate_report.py.")

@@ -1,0 +1,122 @@
+﻿python : [ingestion] 
+Loading assets from: C
+:\Users\ApoorvMahajan\
+OneDrive - Short 
+Hills Tech Pvt 
+Ltd\Desktop\csr
+At line:1 char:64
++ ... 7yiT5J7bdLJuHcxa
+Y_6XFbUilZIkZk"; 
+python demo.py > 
+demo_error.log 2>&1
++                     
+                 ~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~
+    + CategoryInfo    
+          : NotSpeci  
+  fied: ([ingestion   
+ ] Loa...Ltd\Deskt    
+op\csr:String) []    
+, RemoteException
+    + FullyQualifiedE 
+   rrorId : NativeCo  
+  mmandError
+ 
+[ingestion] Loaded 
+149 table records
+[ingestion] No PNG 
+files in C:\Users\Apoo
+rvMahajan\OneDrive - 
+Short Hills Tech Pvt L
+td\Desktop\csr\artifac
+ts\extracted_figures\A
+E (expected for 
+AE/CTP/Approval)
+[ingestion] No PNG 
+files in C:\Users\Apoo
+rvMahajan\OneDrive - 
+Short Hills Tech Pvt L
+td\Desktop\csr\artifac
+ts\extracted_figures\A
+pproval letter Latest 
+(expected for 
+AE/CTP/Approval)
+[ingestion] No PNG 
+files in C:\Users\Apoo
+rvMahajan\OneDrive - 
+Short Hills Tech Pvt L
+td\Desktop\csr\artifac
+ts\extracted_figures\C
+TP (expected for 
+AE/CTP/Approval)
+[ingestion] Loaded 67 
+figure records
+[ingestion]   Chunked 
+IB.pdf: 87 pages
+[ingestion]   Chunked 
+AE.pdf: 9 pages
+[ingestion]   Chunked 
+CTP.pdf: 146 pages
+[ingestion]   Chunked 
+ICFs.pdf: 36 pages
+[ingestion]   Chunked 
+Protocol Devaition 
+log.pdf: 92 pages
+[ingestion]   Chunked 
+Reports (lab and 
+tech).pdf: 140 pages
+[ingestion]   Chunked 
+Results.pdf: 15 pages
+[ingestion]   Chunked 
+SAP.pdf: 101 pages
+[ingestion]   Chunked 
+Approval letter 
+Latest.pdf: 6 pages
+[ingestion] Loaded 
+631 text chunk records
+======================================================================
+CSR AI QUERY AGENT ù DEMO
+======================================================================
+
+Loading all assets from: C:\Users\ApoorvMahajan\OneDrive - Short Hills Tech Pvt Ltd\Desktop\csr
+(This may take 1-2 minutes for PDF text extractionà)
+
+Traceback (most 
+recent call last):
+  File "C:\Users\Apoor
+vMahajan\OneDrive - 
+Short Hills Tech Pvt L
+td\Desktop\csr\demo.py
+", line 133, in 
+<module>
+    main()
+    ~~~~^^
+  File "C:\Users\Apoor
+vMahajan\OneDrive - 
+Short Hills Tech Pvt L
+td\Desktop\csr\demo.py
+", line 92, in main
+    print(f"\n\u2713 
+Assets loaded:")
+    ~~~~~^^^^^^^^^^^^^
+^^^^^^^^^^
+  File "C:\Users\Apoor
+vMahajan\AppData\Local
+\Python\pythoncore-3.1
+4-64\Lib\encodings\cp1
+252.py", line 19, in 
+encode
+    return codecs.char
+map_encode(input,self.
+errors,encoding_table)
+[0]
+           ~~~~~~~~~~~
+~~~~~~~~~~^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 
+'charmap' codec can't 
+encode character 
+'\u2713' in position 
+2: character maps to 
+<undefined>
