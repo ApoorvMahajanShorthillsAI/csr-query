@@ -53,6 +53,7 @@ The system is a "RAG+" (Retrieval-Augmented Generation with Multimodal capabilit
 | **SDK** | `google-generativeai` |
 | **Retrieval** | `scikit-learn` (TF-IDF) |
 | **PDF Parsing** | `pdfplumber`, `camelot-py` |
+| **PDF Reporting** | `fpdf2`, `markdown2` |
 | **Image Processing** | `Pillow` |
 
 ## 5. Instructions for AI Models Interacting with this System
