@@ -1,0 +1,7 @@
+# Table 17: Reactogenicity Grading Scale — Local Reactions
+
+|                            | Mild (Grade 1)                                     | Moderate (Grade 2)                                   | Severe (Grade 3)                    | Potentially Life Threatening (Grade 4)                  |
+|----------------------------|----------------------------------------------------|------------------------------------------------------|-------------------------------------|---------------------------------------------------------|
+| Pain at the injection site | Does not interfere with activity                   | Interferes with activity                             | Prevents daily activity             | Emergency room visit or hospitalization for severe pain |
+| Redness                    | >2.0 cm to 5.0 cm (5 to 10 measuring device units) | >5.0 cm to 10.0 cm (11 to 20 measuring device units) | >10 cm (≥21 measuring device units) | Necrosis or exfoliative dermatitis                      |
+| Swelling                   | >2.0 cm to 5.0 cm (5 to 10 measuring device units) | >5.0 cm to 10.0 cm (11 to 20 measuring device units) | >10 cm (≥21 measuring device units) | Necrosis                                                |

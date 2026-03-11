@@ -1,0 +1,78 @@
+[
+  {
+    "figure_id": "Results_Fig_5_1",
+    "source_pdf": "Results.pdf",
+    "page_number": 5,
+    "filename": "Results_pg5.png",
+    "figure_label": "Figure 1",
+    "title": "Figure 1.  What happened in this study?",
+    "description": "Figure 1.  What happened in this study?",
+    "bbox": [
+      0.0,
+      244.01,
+      612.0,
+      415.84
+    ],
+    "extraction_info": {
+      "method": "Manual-Pattern",
+      "timestamp": "2026-03-05T20:40:00Z"
+    }
+  },
+  {
+    "figure_id": "Results_Fig_8_2",
+    "source_pdf": "Results.pdf",
+    "page_number": 8,
+    "filename": "Results_pg8.png",
+    "figure_label": "Figure 2",
+    "title": "Figure 2.  What happened to the antibody levels against the original strain of the COVID-19 virus after the BNT booster shot?",
+    "description": "Figure 2.  What happened to the antibody levels against the original strain of the COVID-19 virus after the BNT booster shot?",
+    "bbox": [
+      0.0,
+      92.57,
+      612.0,
+      340.0
+    ],
+    "extraction_info": {
+      "method": "Manual-Pattern",
+      "timestamp": "2026-03-05T20:40:00Z"
+    }
+  },
+  {
+    "figure_id": "Results_Fig_9_3",
+    "source_pdf": "Results.pdf",
+    "page_number": 9,
+    "filename": "Results_pg9.png",
+    "figure_label": "Figure 3",
+    "title": "Figure 3.  How many participants had redness, swelling, or pain at the injection site within 7 days after the BNT booster shot?",
+    "description": "Figure 3.  How many participants had redness, swelling, or pain at the injection site within 7 days after the BNT booster shot?",
+    "bbox": [
+      0.0,
+      358.73,
+      612.0,
+      696.4
+    ],
+    "extraction_info": {
+      "method": "Manual-Pattern",
+      "timestamp": "2026-03-05T20:40:00Z"
+    }
+  },
+  {
+    "figure_id": "Results_Fig_10_4",
+    "source_pdf": "Results.pdf",
+    "page_number": 10,
+    "filename": "Results_pg10.png",
+    "figure_label": "Figure 4",
+    "title": "Figure 4.  How many participants had fever, tiredness, headache, chills, vomiting, diarrhea, muscle pain, or joint pain within 7 days after the BNT booster shot?",
+    "description": "Figure 4.  How many participants had fever, tiredness, headache, chills, vomiting, diarrhea, muscle pain, or joint pain within 7 days after the BNT booster shot?",
+    "bbox": [
+      0.0,
+      348.77,
+      612.0,
+      697.72
+    ],
+    "extraction_info": {
+      "method": "Manual-Pattern",
+      "timestamp": "2026-03-05T20:40:00Z"
+    }
+  }
+]

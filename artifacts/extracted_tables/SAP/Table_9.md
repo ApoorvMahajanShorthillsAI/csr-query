@@ -1,0 +1,3 @@
+| Criteria                                          |   Standard Deviation (Log Value)a |   Assumed Observed GMT Difference (Log Scale) |   Number of Evaluable Participants per Age Group | Powerb   |
+|:--------------------------------------------------|----------------------------------:|----------------------------------------------:|-------------------------------------------------:|:---------|
+| Lower limit of 95% CI for GMR (12-15/16-25) 0.67 |                              0.65 |                                          -0.2 |                                              225 | 90.4%    |

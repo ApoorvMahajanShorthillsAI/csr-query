@@ -1,0 +1,182 @@
+[
+    {
+        "TableNumber": 1,
+        "Title": "Overview of the Clinical Development Assessment report",
+        "Pages": "57",
+        "Section": "Clinical Evaluation",
+        "ColumnCount": 15,
+        "RowCount": 23,
+        "Description": "Extraction of Overview of the Clinical Development Assessment report."
+    },
+    {
+        "TableNumber": 2,
+        "Title": "Overview of the pivotal phase 3 study",
+        "Pages": "58",
+        "Section": "Clinical Evaluation",
+        "ColumnCount": 3,
+        "RowCount": 1,
+        "Description": "Extraction of Overview of the pivotal phase 3 study."
+    },
+    {
+        "TableNumber": 3,
+        "Title": "Baseline Charlson Comorbidities",
+        "Pages": "77",
+        "Section": "Clinical Evaluation",
+        "ColumnCount": 3,
+        "RowCount": 9,
+        "Description": "Extraction of Baseline Charlson Comorbidities."
+    },
+    {
+        "TableNumber": 4,
+        "Title": "Efficacy Populations Vaccine Group",
+        "Pages": "78",
+        "Section": "Clinical Evaluation",
+        "ColumnCount": 16,
+        "RowCount": 32,
+        "Description": "Extraction of Efficacy Populations Vaccine Group."
+    },
+    {
+        "TableNumber": 5,
+        "Title": "Vaccine Efficacy \u2013 subjects without evidence of infection",
+        "Pages": "80",
+        "Section": "Clinical Evaluation",
+        "ColumnCount": 16,
+        "RowCount": 33,
+        "Description": "Extraction of Vaccine Efficacy \u2013 subjects without evidence of infection."
+    },
+    {
+        "TableNumber": 6,
+        "Title": "Vaccine Efficacy \u2013 subjects with or without evidence of infection",
+        "Pages": "81",
+        "Section": "Clinical Evaluation",
+        "ColumnCount": 16,
+        "RowCount": 39,
+        "Description": "Extraction of Vaccine Efficacy \u2013 subjects with or without evidence of infection."
+    },
+    {
+        "TableNumber": 7,
+        "Title": "Vaccine Efficacy \u2013 after Dose 1",
+        "Pages": "82",
+        "Section": "Clinical Evaluation",
+        "ColumnCount": 15,
+        "RowCount": 23,
+        "Description": "Extraction of Vaccine Efficacy \u2013 after Dose 1."
+    },
+    {
+        "TableNumber": 8,
+        "Title": "Vaccine Efficacy \u2013 by Subgroup (without evidence)",
+        "Pages": "85",
+        "Section": "Clinical Evaluation",
+        "ColumnCount": 16,
+        "RowCount": 44,
+        "Description": "Extraction of Vaccine Efficacy \u2013 by Subgroup (without evidence)."
+    },
+    {
+        "TableNumber": 9,
+        "Title": "Vaccine Efficacy \u2013 by Subgroup (with or without evidence)",
+        "Pages": "86",
+        "Section": "Clinical Evaluation",
+        "ColumnCount": 15,
+        "RowCount": 52,
+        "Description": "Extraction of Vaccine Efficacy \u2013 by Subgroup (with or without evidence)."
+    },
+    {
+        "TableNumber": 10,
+        "Title": "Vaccine Efficacy \u2013 by Requested Subgroup",
+        "Pages": "87",
+        "Section": "Clinical Evaluation",
+        "ColumnCount": 16,
+        "RowCount": 39,
+        "Description": "Extraction of Vaccine Efficacy \u2013 by Requested Subgroup."
+    },
+    {
+        "TableNumber": 11,
+        "Title": "Vaccine Efficacy \u2013 by Risk Status",
+        "Pages": "88",
+        "Section": "Clinical Evaluation",
+        "ColumnCount": 16,
+        "RowCount": 45,
+        "Description": "Extraction of Vaccine Efficacy \u2013 by Risk Status."
+    },
+    {
+        "TableNumber": 12,
+        "Title": "First Severe COVID-19 Occurrence",
+        "Pages": "90",
+        "Section": "Clinical Evaluation",
+        "ColumnCount": 16,
+        "RowCount": 42,
+        "Description": "Extraction of First Severe COVID-19 Occurrence."
+    },
+    {
+        "TableNumber": 13,
+        "Title": "Summary of Efficacy for trial C4591001",
+        "Pages": "90",
+        "Section": "Clinical Evaluation",
+        "ColumnCount": 16,
+        "RowCount": 42,
+        "Description": "Extraction of Summary of Efficacy for trial C4591001."
+    },
+    {
+        "TableNumber": 14,
+        "Title": "Safety Population, by Baseline SARS-CoV-2 Status",
+        "Pages": "100",
+        "Section": "Clinical Evaluation",
+        "ColumnCount": 16,
+        "RowCount": 15,
+        "Description": "Extraction of Safety Population, by Baseline SARS-CoV-2 Status."
+    },
+    {
+        "TableNumber": 15,
+        "Title": "Systemic Events \u2013 Age Group 16-55 Years",
+        "Pages": "102",
+        "Section": "Clinical Evaluation",
+        "ColumnCount": 13,
+        "RowCount": 8,
+        "Description": "Extraction of Systemic Events \u2013 Age Group 16-55 Years."
+    },
+    {
+        "TableNumber": 16,
+        "Title": "Systemic Events \u2013 Age Group >55 Years",
+        "Pages": "102",
+        "Section": "Clinical Evaluation",
+        "ColumnCount": 13,
+        "RowCount": 8,
+        "Description": "Extraction of Systemic Events \u2013 Age Group >55 Years."
+    },
+    {
+        "TableNumber": 17,
+        "Title": "Adverse Event from Dose 1 to cutoff",
+        "Pages": "104",
+        "Section": "Clinical Evaluation",
+        "ColumnCount": 15,
+        "RowCount": 15,
+        "Description": "Extraction of Adverse Event from Dose 1 to cutoff."
+    },
+    {
+        "TableNumber": 18,
+        "Title": "Adverse Event from Dose 1 to 1 Month after Dose 2",
+        "Pages": "105",
+        "Section": "Clinical Evaluation",
+        "ColumnCount": 15,
+        "RowCount": 10,
+        "Description": "Extraction of Adverse Event from Dose 1 to 1 Month after Dose 2."
+    },
+    {
+        "TableNumber": 19,
+        "Title": "Adverse Event From Dose 1 to 1 Month After Dose 2 - Safety Population",
+        "Pages": "106",
+        "Section": "Clinical Evaluation",
+        "ColumnCount": 15,
+        "RowCount": 16,
+        "Description": "Extraction of Adverse Event From Dose 1 to 1 Month After Dose 2 - Safety Population."
+    },
+    {
+        "TableNumber": 20,
+        "Title": "Effects Table for Comirnaty",
+        "Pages": "134",
+        "Section": "Clinical Evaluation",
+        "ColumnCount": 15,
+        "RowCount": 8,
+        "Description": "Extraction of Effects Table for Comirnaty."
+    }
+]

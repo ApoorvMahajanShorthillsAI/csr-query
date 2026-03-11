@@ -1,0 +1,9 @@
+# Table 24: Analysis Populations Definitions Part 2
+
+| Population                          | Description                                                                                                                                                                                     |
+|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Dose 1 all-available immunogenicity | For Phase 1 only: all randomized participants who receive at least 1 dose of the study intervention with at least 1 valid and determinate immunogenicity result after Dose 1 but before Dose 2. |
+| Dose 2 all-available immunogenicity | All randomized participants who receive at least 1 dose of the study intervention with at least 1 valid and determinate immunogenicity result after Dose 2.                                     |
+| Evaluable efficacy                  | All eligible randomized participants who receive all vaccination(s) as randomized within the predefined window and have no other important protocol deviations as determined by the clinician.  |
+| All-available efficacy              | 1. All randomized participants who receive at least 1 vaccination. 2. All randomized participants who complete 2 vaccination doses.                                                             |
+| Safety                              | All randomized participants who receive at least 1 dose of the study intervention.                                                                                                              |

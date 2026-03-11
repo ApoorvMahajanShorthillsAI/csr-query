@@ -7,12 +7,14 @@ env/
 venv/
 .env
 
-# Data & Artifacts
-Input documents for CSR/
-artifacts/
-*.pdf
-*.md
+# Data & Artifacts (Now allowed)
+# Input documents for CSR/
+# artifacts/
+# *.pdf
+# *.md
 !README.md
+!architecture_overview.md
+!microsoft_loop_documentation.md
 
 # OS
 .DS_Store

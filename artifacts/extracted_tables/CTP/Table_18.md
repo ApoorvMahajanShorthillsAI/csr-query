@@ -1,0 +1,11 @@
+# Table 18: Reactogenicity Grading Scale — Systemic Events
+
+|                             | Mild (Grade 1)                   | Moderate (Grade 2)              | Severe (Grade 3)                   | Potentially Life Threatening (Grade 4)                                         |
+|-----------------------------|----------------------------------|---------------------------------|------------------------------------|--------------------------------------------------------------------------------|
+| Vomiting                    | 1-2 times in 24 hours            | >2 times in 24 hours            | Requires IV hydration              | Emergency room visit or hospitalization for hypotensive shock                  |
+| Diarrhea                    | 2 to 3 loose stools in 24 hours  | 4 to 5 loose stools in 24 hours | 6 or more loose stools in 24 hours | Emergency room visit or hospitalization for severe diarrhea                    |
+| Headache                    | Does not interfere with activity | Some interference with activity | Prevents daily routine activity    | Emergency room visit or hospitalization for severe headache                    |
+| Fatigue/ tiredness          | Does not interfere with activity | Some interference with activity | Prevents daily routine activity    | Emergency room visit or hospitalization for severe fatigue                     |
+| Chills                      | Does not interfere with activity | Some interference with activity | Prevents daily routine activity    | Emergency room visit or hospitalization for severe chills                      |
+| New or worsened muscle pain | Does not interfere with activity | Some interference with activity | Prevents daily routine activity    | Emergency room visit or hospitalization for severe new or worsened muscle pain |
+| New or worsened joint pain  | Does not interfere with activity | Some interference with activity | Prevents daily routine activity    | Emergency room visit or hospitalization for severe new or worsened joint pain  |

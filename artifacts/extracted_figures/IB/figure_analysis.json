@@ -1,0 +1,542 @@
+[
+  {
+    "figure_id": "IB_Fig_1",
+    "source_pdf": "IB.pdf",
+    "page_number": 13,
+    "filename": "IB_Fig_1_pg13.png",
+    "figure_label": "Figure 1:",
+    "title": "Figure 1: Overview of the three RNA platforms",
+    "description": "",
+    "bbox": [
+      70.92,
+      411.14,
+      375.43,
+      643.44
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_2",
+    "source_pdf": "IB.pdf",
+    "page_number": 14,
+    "filename": "IB_Fig_2_pg14.png",
+    "figure_label": "Figure 2:",
+    "title": "Figure 2: RNA-LNP-based BNT162 vaccines",
+    "description": "",
+    "bbox": [
+      70.92,
+      277.29,
+      545.13,
+      491.16
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_3",
+    "source_pdf": "IB.pdf",
+    "page_number": 15,
+    "filename": "IB_Fig_3_pg15.png",
+    "figure_label": "Figure 3:",
+    "title": "Figure 3: Rationale for the administration schema of BNT162 vaccines",
+    "description": "",
+    "bbox": [
+      70.92,
+      119.6,
+      512.86,
+      383.4
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_4",
+    "source_pdf": "IB.pdf",
+    "page_number": 16,
+    "filename": "IB_Fig_4_pg16.png",
+    "figure_label": "Figure 4:",
+    "title": "Figure 4: Schematic lifecycle of a Coronavirus",
+    "description": "",
+    "bbox": [
+      70.51,
+      116.57,
+      549.28,
+      600.84
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_5",
+    "source_pdf": "IB.pdf",
+    "page_number": 17,
+    "filename": "IB_Fig_5_pg17.png",
+    "figure_label": "Figure 5:",
+    "title": "Figure 5: Schematic overview of the organization of the SARS-CoV-2 S glycoprotein",
+    "description": "",
+    "bbox": [
+      70.92,
+      223.96,
+      512.06,
+      322.8
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_6",
+    "source_pdf": "IB.pdf",
+    "page_number": 17,
+    "filename": "IB_Fig_6_pg17.png",
+    "figure_label": "Figure 6:",
+    "title": "Figure 6: Schematic overview of a LNP",
+    "description": "",
+    "bbox": [
+      70.92,
+      485.5,
+      420.86,
+      664.08
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_7",
+    "source_pdf": "IB.pdf",
+    "page_number": 25,
+    "filename": "IB_Fig_7_pg25.png",
+    "figure_label": "Figure 7:",
+    "title": "Figure 7: lmmunofluorescence stainin of cells transfected with BNT162b1 (modRNA encoding VS) and",
+    "description": "",
+    "bbox": [
+      71.29,
+      327.47,
+      553.71,
+      649.05
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_10",
+    "source_pdf": "IB.pdf",
+    "page_number": 28,
+    "filename": "IB_Fig_10_pg28.png",
+    "figure_label": "Figure 10:",
+    "title": "Figure 10: Anti-S lgG response 7, 14, 21, and 28 d after immunization with BNT162b2",
+    "description": "",
+    "bbox": [
+      71.29,
+      230.92,
+      504.02,
+      408.9
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_11",
+    "source_pdf": "IB.pdf",
+    "page_number": 28,
+    "filename": "IB_Fig_11_pg28.png",
+    "figure_label": "Figure 11:",
+    "title": "Figure 11: Neutralization of SARS-CoV-2 pseudovirus 14, 21, and 28 dafter immunization with BNT162b2",
+    "description": "",
+    "bbox": [
+      70.5,
+      416.39,
+      544.15,
+      628.5
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_14",
+    "source_pdf": "IB.pdf",
+    "page_number": 31,
+    "filename": "IB_Fig_14_pg31.png",
+    "figure_label": "Figure 14:",
+    "title": "Figure 14: Anti-S lgG response after immunization with the different BNT162b candidates in NHP",
+    "description": "",
+    "bbox": [
+      71.29,
+      289.67,
+      538.25,
+      670.48
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_15",
+    "source_pdf": "IB.pdf",
+    "page_number": 32,
+    "filename": "IB_Fig_15_pg32.png",
+    "figure_label": "Figure 15:",
+    "title": "Figure 15: NTSO titer after immunization with the different BNT162b candidates in NHP",
+    "description": "",
+    "bbox": [
+      71.29,
+      261.79,
+      521.9,
+      673.5
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_16",
+    "source_pdf": "IB.pdf",
+    "page_number": 34,
+    "filename": "IB_Fig_16_pg34.png",
+    "figure_label": "Figure 16:",
+    "title": "Figure 16: Pseudovirus neutralization activity of recovery cohort sera plotted as pVNSO titer",
+    "description": "",
+    "bbox": [
+      71.29,
+      236.31,
+      545.98,
+      461.48
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_17",
+    "source_pdf": "IB.pdf",
+    "page_number": 36,
+    "filename": "IB_Fig_17_pg36.png",
+    "figure_label": "Figure 17:",
+    "title": "Figure 17: Bioluminescence imaging measurement using the LNP-candidate formulated BNT162b encoding luciferase",
+    "description": "",
+    "bbox": [
+      70.92,
+      404.62,
+      539.24,
+      710.4
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_22",
+    "source_pdf": "IB.pdf",
+    "page_number": 57,
+    "filename": "IB_Fig_22_pg57.png",
+    "figure_label": "Figure 22:",
+    "title": "Figure 22: IFNy ELISpot data for 5 subjects dosed with 10 µg BNT162b2 (BNT162-01)",
+    "description": "",
+    "bbox": [
+      71.29,
+      317.7,
+      479.91,
+      546.5
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_23",
+    "source_pdf": "IB.pdf",
+    "page_number": 58,
+    "filename": "IB_Fig_23_pg58.png",
+    "figure_label": "Figure 23:",
+    "title": "Figure 23: Example of co4· and cos· IFNy ELISpot data (BNT162-01)",
+    "description": "",
+    "bbox": [
+      71.25,
+      126.48,
+      496.99,
+      368.43
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_24",
+    "source_pdf": "IB.pdf",
+    "page_number": 58,
+    "filename": "IB_Fig_24_pg58.png",
+    "figure_label": "Figure 24:",
+    "title": "Figure 24: Comparison of BNT162b2-elicited and benchmark IN Fr ELISpot responses (BNT162-01)",
+    "description": "",
+    "bbox": [
+      70.84,
+      374.97,
+      550.63,
+      652.5
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_25",
+    "source_pdf": "IB.pdf",
+    "page_number": 64,
+    "filename": "IB_Fig_25_pg64.png",
+    "figure_label": "Figure 25:",
+    "title": "Figure 25: BNT162b1 in younger adults: RBD-binding IgG GMCs (BNT162-02)",
+    "description": "",
+    "bbox": [
+      70.92,
+      122.81,
+      533.27,
+      411.0
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_26",
+    "source_pdf": "IB.pdf",
+    "page_number": 64,
+    "filename": "IB_Fig_26_pg64.png",
+    "figure_label": "Figure 26:",
+    "title": "Figure 26: BNT162b1 in elderly adults: RBD-binding IgG GMCs (BNT162-02)",
+    "description": "",
+    "bbox": [
+      70.92,
+      432.18,
+      527.0,
+      728.4
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_27",
+    "source_pdf": "IB.pdf",
+    "page_number": 65,
+    "filename": "IB_Fig_27_pg65.png",
+    "figure_label": "Figure 27:",
+    "title": "Figure 27: BNT162b1 in younger adults: 50% SARS-CoV-2 neutralizing GMTs (BNT162-02)",
+    "description": "",
+    "bbox": [
+      70.92,
+      123.12,
+      527.34,
+      419.52
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_28",
+    "source_pdf": "IB.pdf",
+    "page_number": 65,
+    "filename": "IB_Fig_28_pg65.png",
+    "figure_label": "Figure 28:",
+    "title": "Figure 28: BNT162b1 in elderly adults: 50% SARS-CoV-2 neutralizing GMTs (BNT162-02)",
+    "description": "",
+    "bbox": [
+      70.92,
+      432.93,
+      515.05,
+      716.4
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_29",
+    "source_pdf": "IB.pdf",
+    "page_number": 67,
+    "filename": "IB_Fig_29_pg67.png",
+    "figure_label": "Figure 29:",
+    "title": "Figure 29: BNT162b2 in younger adults: S1-binding IgG GMCs (BNT162-02)",
+    "description": "",
+    "bbox": [
+      70.92,
+      125.37,
+      510.08,
+      400.08
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_30",
+    "source_pdf": "IB.pdf",
+    "page_number": 67,
+    "filename": "IB_Fig_30_pg67.png",
+    "figure_label": "Figure 30:",
+    "title": "Figure 30: BNT162b2 in elderly adults: S1-binding IgG GMCs (BNT162-02)",
+    "description": "",
+    "bbox": [
+      70.92,
+      427.47,
+      524.8,
+      724.92
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_31",
+    "source_pdf": "IB.pdf",
+    "page_number": 68,
+    "filename": "IB_Fig_31_pg68.png",
+    "figure_label": "Figure 31:",
+    "title": "Figure 31: BNT162b2 in younger adults: 50% SARS-CoV-2 neutralizing GMTs (BNT162-02)",
+    "description": "",
+    "bbox": [
+      70.92,
+      117.8,
+      528.4,
+      415.08
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_32",
+    "source_pdf": "IB.pdf",
+    "page_number": 68,
+    "filename": "IB_Fig_32_pg68.png",
+    "figure_label": "Figure 32:",
+    "title": "Figure 32: BNT162b2 in elderly adults: 50% SARS-CoV-2 neutralizing GMTs (BNT162-02)",
+    "description": "",
+    "bbox": [
+      70.92,
+      442.43,
+      532.26,
+      748.92
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_33",
+    "source_pdf": "IB.pdf",
+    "page_number": 70,
+    "filename": "IB_Fig_33_pg70.png",
+    "figure_label": "Figure 33:",
+    "title": "Figure 33: BNT162b1 in younger adults: Local reactions after doses 1 and 2 (BNT162-02)",
+    "description": "",
+    "bbox": [
+      70.92,
+      136.7,
+      548.04,
+      518.4
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_34",
+    "source_pdf": "IB.pdf",
+    "page_number": 71,
+    "filename": "IB_Fig_34_pg71.png",
+    "figure_label": "Figure 34:",
+    "title": "Figure 34: BNT162b1 in younger adults: Systemic events after doses 1 and 2 (BNT162-02)",
+    "description": "",
+    "bbox": [
+      179.75,
+      122.57,
+      705.24,
+      505.07
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_35",
+    "source_pdf": "IB.pdf",
+    "page_number": 73,
+    "filename": "IB_Fig_35_pg73.png",
+    "figure_label": "Figure 35:",
+    "title": "Figure 35: BNT162b2 in younger adults: Local reactions after doses 1 and 2 (BNT162-02)",
+    "description": "",
+    "bbox": [
+      70.92,
+      123.57,
+      548.06,
+      505.08
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_36",
+    "source_pdf": "IB.pdf",
+    "page_number": 74,
+    "filename": "IB_Fig_36_pg74.png",
+    "figure_label": "Figure 36:",
+    "title": "Figure 36: BNT162b2 in elderly adults: Local reactions after doses 1 and 2 (BNT162-02)",
+    "description": "",
+    "bbox": [
+      70.92,
+      123.57,
+      548.04,
+      505.08
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_37",
+    "source_pdf": "IB.pdf",
+    "page_number": 75,
+    "filename": "IB_Fig_37_pg75.png",
+    "figure_label": "Figure 37:",
+    "title": "Figure 37: BNT162b2 in younger adults: Systemic events after doses 1 and 2 (BNT162-02)",
+    "description": "",
+    "bbox": [
+      178.11,
+      122.5,
+      709.41,
+      508.07
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  },
+  {
+    "figure_id": "IB_Fig_38",
+    "source_pdf": "IB.pdf",
+    "page_number": 76,
+    "filename": "IB_Fig_38_pg76.png",
+    "figure_label": "Figure 38:",
+    "title": "Figure 38: BNT162b2 in elderly adults: Systemic events after doses 1 and 2 (BNT162-02)",
+    "description": "",
+    "bbox": [
+      183.14,
+      122.39,
+      701.39,
+      499.07
+    ],
+    "extraction_info": {
+      "method": "Docling-Greedy-SinglePage"
+    }
+  }
+]

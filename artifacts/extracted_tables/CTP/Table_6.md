@@ -1,0 +1,6 @@
+# Table 6: Objectives Estimands Endpoints — HIV Subgroup
+
+| Objectivesa                                                                                                                                                                                      | Estimands   | Endpoints                                                               |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|-------------------------------------------------------------------------|
+| To describe the safety, immunogenicity, and efficacy of prophylactic BNT162b2 in individuals with confirmed stable HIV disease                                                                   |             | • All safety, immunogenicity, and efficacy endpoints described above    |
+| To describe the safety and immunogenicity of prophylactic BNT162b2 in individuals 16 to 55 years of age vaccinated with study intervention produced by manufacturing “Process 1” or “Process 2”b |             | • All safety endpoints described above • SARS-CoV-2 neutralizing titers |

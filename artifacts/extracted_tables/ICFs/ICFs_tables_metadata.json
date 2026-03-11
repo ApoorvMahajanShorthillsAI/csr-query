@@ -1,0 +1,110 @@
+[
+    {
+        "TableNumber": 1,
+        "Title": "Participant Information and Consent Form — Document Header",
+        "Pages": "1",
+        "Section": "Document Header",
+        "ColumnCount": 6,
+        "RowCount": 1,
+        "Description": "Header identification block — Study, Country, Site, Protocol, Sponsor, ICD version."
+    },
+    {
+        "TableNumber": 2,
+        "Title": "Consent Form — Version and Amendment Tracking",
+        "Pages": "1",
+        "Section": "Document Header",
+        "ColumnCount": 0,
+        "RowCount": 0,
+        "Description": "Version tracking table for the ICF document — includes amendment dates and version numbers."
+    },
+    {
+        "TableNumber": 3,
+        "Title": "Visit Schedule — Screening and Baseline",
+        "Pages": "7-8",
+        "Section": "Study Visit Schedule",
+        "ColumnCount": 15,
+        "RowCount": 35,
+        "Description": "Visit schedule for the screening and baseline periods of the BNT162b2 clinical trial."
+    },
+    {
+        "TableNumber": 4,
+        "Title": "Visit Schedule — Vaccination Doses and Follow-up",
+        "Pages": "8-10",
+        "Section": "Study Visit Schedule",
+        "ColumnCount": 15,
+        "RowCount": 35,
+        "Description": "Visit schedule for dose 1, dose 2, and follow-up visits."
+    },
+    {
+        "TableNumber": 5,
+        "Title": "Schedule of Activities (SOA) — Primary",
+        "Pages": "10-12",
+        "Section": "Schedule of Activities",
+        "ColumnCount": 19,
+        "RowCount": 21,
+        "Description": "Primary schedule of study activities, procedures, and assessments by visit."
+    },
+    {
+        "TableNumber": 6,
+        "Title": "Schedule of Activities (SOA) — Continued",
+        "Pages": "12-13",
+        "Section": "Schedule of Activities",
+        "ColumnCount": 19,
+        "RowCount": 17,
+        "Description": "Continuation of the schedule of activities covering post-delivery follow-up."
+    },
+    {
+        "TableNumber": 7,
+        "Title": "Participant Rights and Risk-Benefit Summary",
+        "Pages": "13-14",
+        "Section": "Rights and Benefits",
+        "ColumnCount": 6,
+        "RowCount": 21,
+        "Description": "Summary of participant rights, risks, and potential benefits of study participation."
+    },
+    {
+        "TableNumber": 8,
+        "Title": "Emergency and Study Contact Information",
+        "Pages": "14-15",
+        "Section": "Contact Information",
+        "ColumnCount": 4,
+        "RowCount": 8,
+        "Description": "Study investigator, site coordinator, and emergency telephone contact details."
+    },
+    {
+        "TableNumber": 9,
+        "Title": "COVID-19 Infection Risk Summary",
+        "Pages": "15-17",
+        "Section": "Risk Information",
+        "ColumnCount": 16,
+        "RowCount": 32,
+        "Description": "Summary of COVID-19 infection risks for relevant population groups."
+    },
+    {
+        "TableNumber": 10,
+        "Title": "Vaccine Side Effects and Frequency Table",
+        "Pages": "17-20",
+        "Section": "Side Effects",
+        "ColumnCount": 15,
+        "RowCount": 33,
+        "Description": "Frequency and severity of solicited and unsolicited adverse events post-vaccination."
+    },
+    {
+        "TableNumber": 11,
+        "Title": "Participant Consent Signature Block",
+        "Pages": "33-35",
+        "Section": "Consent Signatures",
+        "ColumnCount": 15,
+        "RowCount": 40,
+        "Description": "Participant signature block for informed consent — includes name, date, signature fields."
+    },
+    {
+        "TableNumber": 12,
+        "Title": "Witness and Investigator Signature Block",
+        "Pages": "35-36",
+        "Section": "Consent Signatures",
+        "ColumnCount": 15,
+        "RowCount": 36,
+        "Description": "Witness and investigator signature block confirming completion of the consent process."
+    }
+]

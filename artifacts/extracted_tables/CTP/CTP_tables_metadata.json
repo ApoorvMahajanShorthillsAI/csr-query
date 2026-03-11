@@ -1,0 +1,371 @@
+[
+    {
+        "TableNumber": 1,
+        "Title": "Objectives Estimands Endpoints \u2014 Phase 1 Primary",
+        "Pages": "10",
+        "Section": "See context in document",
+        "ColumnCount": 3,
+        "RowCount": 6,
+        "Description": "Primary objectives and endpoints for Phase 1 of the study."
+    },
+    {
+        "TableNumber": 2,
+        "Title": "Objectives Estimands Endpoints \u2014 Phase 1 Secondary (continued)",
+        "Pages": "11",
+        "Section": "See context in document",
+        "ColumnCount": 3,
+        "RowCount": 2,
+        "Description": "Secondary objectives and endpoints for Phase 1 (continued)."
+    },
+    {
+        "TableNumber": 3,
+        "Title": "Objectives Estimands Endpoints \u2014 Phase 2/3 intro",
+        "Pages": "11",
+        "Section": "See context in document",
+        "ColumnCount": 3,
+        "RowCount": 5,
+        "Description": "Introduction to Phase 2/3 objectives and endpoints."
+    },
+    {
+        "TableNumber": 4,
+        "Title": "Objectives Estimands Endpoints \u2014 Phase 2/3 Safety",
+        "Pages": "12",
+        "Section": "See context in document",
+        "ColumnCount": 3,
+        "RowCount": 6,
+        "Description": "Safety objectives and endpoints for Phase 2/3."
+    },
+    {
+        "TableNumber": 5,
+        "Title": "Objectives Estimands Endpoints \u2014 Phase 2/3 Severe COVID Efficacy",
+        "Pages": "13",
+        "Section": "See context in document",
+        "ColumnCount": 3,
+        "RowCount": 9,
+        "Description": "Efficacy objectives for severe COVID cases in Phase 2/3."
+    },
+    {
+        "TableNumber": 6,
+        "Title": "Objectives Estimands Endpoints \u2014 HIV Subgroup",
+        "Pages": "14",
+        "Section": "See context in document",
+        "ColumnCount": 3,
+        "RowCount": 2,
+        "Description": "Objectives and endpoints for the HIV subgroup."
+    },
+    {
+        "TableNumber": 7,
+        "Title": "Schedule of Activities Phase 1",
+        "Pages": "18-22",
+        "Section": "1.3.1. Phase 1",
+        "ColumnCount": 14,
+        "RowCount": 90,
+        "Description": "Comprehensive schedule of activities for Phase 1."
+    },
+    {
+        "TableNumber": 8,
+        "Title": "Schedule of Activities Phase 2/3",
+        "Pages": "23-25",
+        "Section": "1.3.2. Phase 2/3",
+        "ColumnCount": 9,
+        "RowCount": 55,
+        "Description": "Comprehensive schedule of activities for Phase 2/3."
+    },
+    {
+        "TableNumber": 9,
+        "Title": "Risk Assessment \u2014 Vaccine Intervention",
+        "Pages": "29",
+        "Section": "2.3.1. Risk Assessment",
+        "ColumnCount": 3,
+        "RowCount": 4,
+        "Description": "Analysis of risks associated with the vaccine intervention."
+    },
+    {
+        "TableNumber": 10,
+        "Title": "Risk Assessment \u2014 Study Procedures",
+        "Pages": "30",
+        "Section": "See context in document",
+        "ColumnCount": 3,
+        "RowCount": 3,
+        "Description": "Analysis of risks associated with study procedures."
+    },
+    {
+        "TableNumber": 11,
+        "Title": "Objectives Estimands Endpoints \u2014 Phase 2/3 Primary (pg 31)",
+        "Pages": "31",
+        "Section": "3.1. For Phase 1",
+        "ColumnCount": 3,
+        "RowCount": 2,
+        "Description": "Primary objectives for Phase 2/3 on page 31."
+    },
+    {
+        "TableNumber": 12,
+        "Title": "Objectives Estimands Endpoints \u2014 Phase 2/3 Secondary (pg 32)",
+        "Pages": "32",
+        "Section": "See context in document",
+        "ColumnCount": 3,
+        "RowCount": 2,
+        "Description": "Secondary objectives for Phase 2/3 on page 32."
+    },
+    {
+        "TableNumber": 13,
+        "Title": "Objectives Estimands Endpoints \u2014 Phase 2/3 Primary Efficacy",
+        "Pages": "33",
+        "Section": "3.2. For Phase 2/3",
+        "ColumnCount": 3,
+        "RowCount": 7,
+        "Description": "Primary efficacy objectives and endpoints for Phase 2/3."
+    },
+    {
+        "TableNumber": 14,
+        "Title": "Objectives Estimands Endpoints \u2014 Phase 2/3 Secondary Efficacy",
+        "Pages": "34",
+        "Section": "See context in document",
+        "ColumnCount": 3,
+        "RowCount": 7,
+        "Description": "Secondary efficacy objectives and endpoints for Phase 2/3."
+    },
+    {
+        "TableNumber": 15,
+        "Title": "Objectives Estimands Endpoints \u2014 Phase 2/3 Immunogenicity",
+        "Pages": "35",
+        "Section": "See context in document",
+        "ColumnCount": 3,
+        "RowCount": 8,
+        "Description": "Immunogenicity objectives and endpoints for Phase 2/3."
+    },
+    {
+        "TableNumber": 16,
+        "Title": "Study Interventions \u2014 BNT162b1 vs BNT162b2 vs Placebo",
+        "Pages": "46",
+        "Section": "6.1. Study Intervention(s) Administered",
+        "ColumnCount": 4,
+        "RowCount": 9,
+        "Description": "Comparison of study interventions including placebo."
+    },
+    {
+        "TableNumber": 17,
+        "Title": "Reactogenicity Grading Scale \u2014 Local Reactions",
+        "Pages": "60",
+        "Section": "Table 1. Local Reaction Grading Scale",
+        "ColumnCount": 5,
+        "RowCount": 3,
+        "Description": "Grading scale for evaluating local reactogenicity."
+    },
+    {
+        "TableNumber": 18,
+        "Title": "Reactogenicity Grading Scale \u2014 Systemic Events",
+        "Pages": "61",
+        "Section": "Table 2. Systemic Event Grading Scale",
+        "ColumnCount": 5,
+        "RowCount": 7,
+        "Description": "Grading scale for evaluating systemic reactogenicity."
+    },
+    {
+        "TableNumber": 19,
+        "Title": "Fever Temperature Scale",
+        "Pages": "62",
+        "Section": "Table 3. Scale for Fever",
+        "ColumnCount": 1,
+        "RowCount": 3,
+        "Description": "Grading scale for fever based on temperature."
+    },
+    {
+        "TableNumber": 20,
+        "Title": "AE SAE Reporting Requirements",
+        "Pages": "71",
+        "Section": "See context in document",
+        "ColumnCount": 3,
+        "RowCount": 1,
+        "Description": "Requirements for reporting Adverse Events and Serious Adverse Events."
+    },
+    {
+        "TableNumber": 21,
+        "Title": "Sample Size Immunogenicity Noninferiority Criteria",
+        "Pages": "100",
+        "Section": "Table 4. Power Analysis for Noninferiority Assessment",
+        "ColumnCount": 5,
+        "RowCount": 1,
+        "Description": "Criteria for immunogenicity non-inferiority sample size."
+    },
+    {
+        "TableNumber": 22,
+        "Title": "Table 5: Probability of Observing at Least 1 AE by Sample Size",
+        "Pages": "101",
+        "Section": "Table 5. Probability of Observing at Least 1 AE by Assumed True Event Rates",
+        "ColumnCount": 9,
+        "RowCount": 18,
+        "Description": "Statistical table showing probability of AE occurrence by sample size."
+    },
+    {
+        "TableNumber": 23,
+        "Title": "Analysis Populations Definitions Part 1",
+        "Pages": "101",
+        "Section": "9.3. Analysis Sets",
+        "ColumnCount": 2,
+        "RowCount": 4,
+        "Description": "Definitions for analysis populations, part 1."
+    },
+    {
+        "TableNumber": 24,
+        "Title": "Analysis Populations Definitions Part 2",
+        "Pages": "102",
+        "Section": "See context in document",
+        "ColumnCount": 2,
+        "RowCount": 5,
+        "Description": "Definitions for analysis populations, part 2."
+    },
+    {
+        "TableNumber": 25,
+        "Title": "Statistical Analysis Methods",
+        "Pages": "103-110",
+        "Section": "See context in document",
+        "ColumnCount": 2,
+        "RowCount": 13,
+        "Description": "Detailed statistical analysis methods across multiple pages."
+    },
+    {
+        "TableNumber": 26,
+        "Title": "Table 6: Interim Analysis Efficacy Futility Boundaries",
+        "Pages": "112",
+        "Section": "Table 6. Interim Analysis Plan and Boundaries for Efficacy and Futility",
+        "ColumnCount": 4,
+        "RowCount": 6,
+        "Description": "Efficacy and futility boundaries for interim analysis."
+    },
+    {
+        "TableNumber": 27,
+        "Title": "Table 7: Statistical Design Operating Characteristics",
+        "Pages": "113-113",
+        "Section": "Table 7. Statistical Design Operating Characteristics: Probability of Success or",
+        "ColumnCount": 8,
+        "RowCount": 13,
+        "Description": "Statistical design operating characteristics merged from page 113."
+    },
+    {
+        "TableNumber": 28,
+        "Title": "Appendix 2: Clinical Laboratory Tests List",
+        "Pages": "123",
+        "Section": "10.2. Appendix 2: Clinical Laboratory Tests",
+        "ColumnCount": 3,
+        "RowCount": 1,
+        "Description": "List of clinical laboratory tests in Appendix 2."
+    },
+    {
+        "TableNumber": 29,
+        "Title": "Table 8: Laboratory Abnormality Grading Scale \u2014 Hematology",
+        "Pages": "123",
+        "Section": "Table 9. Laboratory Abnormality Grading Scale",
+        "ColumnCount": 5,
+        "RowCount": 8,
+        "Description": "Grading scale for hematology laboratory abnormalities."
+    },
+    {
+        "TableNumber": 30,
+        "Title": "Table 9: Laboratory Abnormality Grading Scale \u2014 Chemistry",
+        "Pages": "124",
+        "Section": "Table 9. Laboratory Abnormality Grading Scale",
+        "ColumnCount": 5,
+        "RowCount": 6,
+        "Description": "Grading scale for chemistry laboratory abnormalities."
+    },
+    {
+        "TableNumber": 31,
+        "Title": "AE Definition",
+        "Pages": "125",
+        "Section": "10.3.1. Definition of AE",
+        "ColumnCount": 1,
+        "RowCount": 1,
+        "Description": "Formal definition of an Adverse Event."
+    },
+    {
+        "TableNumber": 32,
+        "Title": "Events Meeting AE Definition",
+        "Pages": "125",
+        "Section": "10.3.1. Definition of AE",
+        "ColumnCount": 1,
+        "RowCount": 1,
+        "Description": "List of events that meet the AE definition."
+    },
+    {
+        "TableNumber": 33,
+        "Title": "Events NOT Meeting AE Definition",
+        "Pages": "126",
+        "Section": "See context in document",
+        "ColumnCount": 1,
+        "RowCount": 1,
+        "Description": "List of events that do NOT meet the AE definition."
+    },
+    {
+        "TableNumber": 34,
+        "Title": "SAE Definition",
+        "Pages": "126",
+        "Section": "10.3.2. Definition of SAE",
+        "ColumnCount": 1,
+        "RowCount": 3,
+        "Description": "Formal definition of a Serious Adverse Event."
+    },
+    {
+        "TableNumber": 35,
+        "Title": "SAE Definition Continued",
+        "Pages": "127",
+        "Section": "See context in document",
+        "ColumnCount": 1,
+        "RowCount": 3,
+        "Description": "Continuation of the Serious Adverse Event definition."
+    },
+    {
+        "TableNumber": 36,
+        "Title": "AE SAE Recording Reporting Narrative",
+        "Pages": "128",
+        "Section": "10.3.3. Recording/Reporting and Follow-up of AEs and/or SAEs",
+        "ColumnCount": 1,
+        "RowCount": 1,
+        "Description": "Narrative guidance for recording and reporting AE/SAE."
+    },
+    {
+        "TableNumber": 37,
+        "Title": "AE SAE Reporting Requirements Summary Table",
+        "Pages": "128",
+        "Section": "See context in document",
+        "ColumnCount": 3,
+        "RowCount": 3,
+        "Description": "Summary table showing reporting requirements for AE/SAE."
+    },
+    {
+        "TableNumber": 38,
+        "Title": "Assessment of Intensity Grade Definitions",
+        "Pages": "129",
+        "Section": "See context in document",
+        "ColumnCount": 3,
+        "RowCount": 4,
+        "Description": "Definitions for the assessment of event intensity grades."
+    },
+    {
+        "TableNumber": 39,
+        "Title": "Appendix 6: Abbreviations",
+        "Pages": "138-141",
+        "Section": "10.6. Appendix 6: Abbreviations",
+        "ColumnCount": 2,
+        "RowCount": 130,
+        "Description": "List of abbreviations used in clinical laboratory tests."
+    },
+    {
+        "TableNumber": 40,
+        "Title": "Table 10: Stopping Rule Severe Cases",
+        "Pages": "143",
+        "Section": "Table 10. Stopping Rule: Enrollment Is Stopped if the Number of Severe Cases in",
+        "ColumnCount": 3,
+        "RowCount": 17,
+        "Description": "Stopping rule criteria for severe cases."
+    },
+    {
+        "TableNumber": 41,
+        "Title": "Table 11: Alert Rule Severe Cases Probability",
+        "Pages": "144",
+        "Section": "Table 11. Alert Rule: Further Action Is Taken if the Number of Severe Cases in the",
+        "ColumnCount": 7,
+        "RowCount": 19,
+        "Description": "Probability statistics for alert rules in severe cases."
+    }
+]

@@ -1,0 +1,6 @@
+# Table 24: Table 13. Vaccine Efficacy – First COVID-19 Occurrence From 7 Days After Dose 2, by
+
+|    | Table 13. Vaccine Efficacy – First COVID-19 Occurrence From 7 Days After Dose 2, by Risk Status – Subjects Without Evidence of Infection Prior to 7 Days After Dose 2 – Evaluable Efficacy (7 Days) Population   |                                                |    |    |
+|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|----|----|
+|    |                                                                                                                                                                                                                  | Vaccine Group (as Randomized)                  |    |    |
+|    |                                                                                                                                                                                                                  | BNT162b2 (30 μg) Placebo (Na=18198) (Na=18325) |    |    |

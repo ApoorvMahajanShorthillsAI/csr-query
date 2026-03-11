@@ -1,0 +1,5 @@
+|                            | Mild (Grade 1)                                    | Moderate (Grade 2)                                 | Severe (Grade 3)                   | Potentially Life Threatening (Grade 4)                   |
+|:---------------------------|:--------------------------------------------------|:---------------------------------------------------|:-----------------------------------|:---------------------------------------------------------|
+| Pain at the injection site | Does not interfere with activity.                 | Interferes with activity.                          | Prevents daily activity.           | Emergency room visit or hospitalization for severe pain. |
+| Redness                    | 2.0cm to 5.0cm (5 to 10measuring device units).  | 5.0cm to 10.0cm (11 to 20measuring device units). | 10cm (≥21measuring device units). | Necrosis or exfoliative dermatitis.                      |
+| Swelling                   | 2.0cm to 5.0cm (5 to 10 measuring device units). | 5.0cm to 10.0cm (11 to 20measuring device units). | 10cm (≥21measuring device units). | Necrosis.                                                |

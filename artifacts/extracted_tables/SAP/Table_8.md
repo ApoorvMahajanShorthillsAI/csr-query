@@ -1,0 +1,3 @@
+| Hematology                                                                                                                                                        | Chemistry                                                        |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------|
+| Hemoglobin Hematocrit RBC count MCV MCH MCHC Platelet count WBC count Total neutrophils (Abs) Eosinophils (Abs) Monocytes (Abs) Basophils (Abs) Lymphocytes (Abs) | BUN and creatinine AST, ALT Total bilirubin Alkaline phosphatase |

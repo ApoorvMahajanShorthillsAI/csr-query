@@ -1,0 +1,38 @@
+[
+    {
+        "TableNumber": 1,
+        "Title": "Table 1",
+        "Pages": "4",
+        "Section": "Fraiman et al. Analysis",
+        "ColumnCount": 5,
+        "RowCount": 4,
+        "Description": "Adverse events table 1 from Fraiman et al. publication."
+    },
+    {
+        "TableNumber": 2,
+        "Title": "Table 2",
+        "Pages": "5",
+        "Section": "Fraiman et al. Analysis",
+        "ColumnCount": 5,
+        "RowCount": 10,
+        "Description": "Adverse events table 2 from Fraiman et al. publication."
+    },
+    {
+        "TableNumber": 3,
+        "Title": "Table 3",
+        "Pages": "5",
+        "Section": "Fraiman et al. Analysis",
+        "ColumnCount": 7,
+        "RowCount": 23,
+        "Description": "Adverse events table 3 from Fraiman et al. publication."
+    },
+    {
+        "TableNumber": 4,
+        "Title": "Table 4",
+        "Pages": "6",
+        "Section": "Fraiman et al. Analysis",
+        "ColumnCount": 7,
+        "RowCount": 32,
+        "Description": "Adverse events table 4 from Fraiman et al. publication."
+    }
+]

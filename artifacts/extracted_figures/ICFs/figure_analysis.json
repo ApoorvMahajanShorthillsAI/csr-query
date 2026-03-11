@@ -1,0 +1,21 @@
+[
+  {
+    "figure_id": "ICFs_Fig_5_1",
+    "source_pdf": "ICFs.pdf",
+    "page_number": 5,
+    "filename": "ICFs_pg5.png",
+    "figure_label": "Unnumbered Figure",
+    "title": "Coronavirus image",
+    "description": "Coronavirus image found in ICFs.pdf (no standard figure format)",
+    "bbox": [
+      225.8,
+      425.1,
+      396.0,
+      497.2
+    ],
+    "extraction_info": {
+      "method": "Docling-Visual-Filtered",
+      "timestamp": "2026-03-05T20:50:00Z"
+    }
+  }
+]

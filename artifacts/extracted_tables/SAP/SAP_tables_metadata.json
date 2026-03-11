@@ -1,0 +1,119 @@
+[
+    {
+        "TableNumber": 1,
+        "Title": "Summary of Changes",
+        "Pages": "9",
+        "Section": "Statistical Analysis Plan",
+        "ColumnCount": 3,
+        "RowCount": 10,
+        "Description": "Extraction of Summary of Changes."
+    },
+    {
+        "TableNumber": 2,
+        "Title": "List of Primary and Secondary Objectives, Estimands, and Endpoints for Phase 1",
+        "Pages": "10-11",
+        "Section": "Statistical Analysis Plan",
+        "ColumnCount": 3,
+        "RowCount": 14,
+        "Description": "Extraction of List of Primary and Secondary Objectives, Estimands, and Endpoints for Phase 1."
+    },
+    {
+        "TableNumber": 3,
+        "Title": "List of Primary, Secondary, and Tertiary/Exploratory Objectives, Estimands, and Endpoints for Phase 2/3",
+        "Pages": "12-13-14-15-16-17-18",
+        "Section": "Statistical Analysis Plan",
+        "ColumnCount": 3,
+        "RowCount": 46,
+        "Description": "Extraction of List of Primary, Secondary, and Tertiary/Exploratory Objectives, Estimands, and Endpoints for Phase 2/3."
+    },
+    {
+        "TableNumber": 4,
+        "Title": "Derived Variables for Presence of Each and Any Local Reaction Within 7 Days for Each Dose",
+        "Pages": "27",
+        "Section": "Statistical Analysis Plan",
+        "ColumnCount": 4,
+        "RowCount": 2,
+        "Description": "Extraction of Derived Variables for Presence of Each and Any Local Reaction Within 7 Days for Each Dose."
+    },
+    {
+        "TableNumber": 5,
+        "Title": "Local Reaction Grading Scale",
+        "Pages": "27",
+        "Section": "Statistical Analysis Plan",
+        "ColumnCount": 5,
+        "RowCount": 3,
+        "Description": "Extraction of Local Reaction Grading Scale."
+    },
+    {
+        "TableNumber": 6,
+        "Title": "Systemic Event Grading Scale",
+        "Pages": "29",
+        "Section": "Statistical Analysis Plan",
+        "ColumnCount": 5,
+        "RowCount": 7,
+        "Description": "Extraction of Systemic Event Grading Scale."
+    },
+    {
+        "TableNumber": 7,
+        "Title": "Scale for Fever",
+        "Pages": "29",
+        "Section": "Statistical Analysis Plan",
+        "ColumnCount": 1,
+        "RowCount": 3,
+        "Description": "Extraction of Scale for Fever."
+    },
+    {
+        "TableNumber": 8,
+        "Title": "Laboratory Abnormality Grading Scale",
+        "Pages": "33",
+        "Section": "Statistical Analysis Plan",
+        "ColumnCount": 2,
+        "RowCount": 1,
+        "Description": "Extraction of Laboratory Abnormality Grading Scale."
+    },
+    {
+        "TableNumber": 9,
+        "Title": "Power Analysis for Noninferiority Assessment",
+        "Pages": "45",
+        "Section": "Statistical Analysis Plan",
+        "ColumnCount": 5,
+        "RowCount": 1,
+        "Description": "Extraction of Power Analysis for Noninferiority Assessment."
+    },
+    {
+        "TableNumber": 10,
+        "Title": "Probability of Observing at Least 1 AE by Assumed True Event Rates With Different Sample Sizes",
+        "Pages": "46",
+        "Section": "Statistical Analysis Plan",
+        "ColumnCount": 9,
+        "RowCount": 15,
+        "Description": "Extraction of Probability of Observing at Least 1 AE by Assumed True Event Rates With Different Sample Sizes."
+    },
+    {
+        "TableNumber": 11,
+        "Title": "Interim Analysis Plan and Boundaries for Efficacy and Futility",
+        "Pages": "86",
+        "Section": "Statistical Analysis Plan",
+        "ColumnCount": 4,
+        "RowCount": 6,
+        "Description": "Extraction of Interim Analysis Plan and Boundaries for Efficacy and Futility."
+    },
+    {
+        "TableNumber": 12,
+        "Title": "Statistical Design Operating Characteristics: Probability of Success or Failure for Interim Analyses",
+        "Pages": "87",
+        "Section": "Statistical Analysis Plan",
+        "ColumnCount": 8,
+        "RowCount": 6,
+        "Description": "Extraction of Statistical Design Operating Characteristics: Probability of Success or Failure for Interim Analyses."
+    },
+    {
+        "TableNumber": 13,
+        "Title": "Statistical Design Operating Characteristics: Probability of Success for Final Analysis and Overall",
+        "Pages": "87",
+        "Section": "Statistical Analysis Plan",
+        "ColumnCount": 3,
+        "RowCount": 6,
+        "Description": "Extraction of Statistical Design Operating Characteristics: Probability of Success for Final Analysis and Overall."
+    }
+]

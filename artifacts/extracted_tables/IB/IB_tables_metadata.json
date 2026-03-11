@@ -1,0 +1,173 @@
+[
+    {
+        "TableNumber": 1,
+        "Title": "Characteristics of the different BNT162 vaccine candidates in clinical investigation",
+        "Pages": "18",
+        "Section": "3.4 Clinical development",
+        "ColumnCount": 1,
+        "RowCount": 28,
+        "Description": "Characteristics of BNT162 vaccine candidates in clinical trials."
+    },
+    {
+        "TableNumber": 2,
+        "Title": "General properties of uRNA, modRNA and saRNA drug substances",
+        "Pages": "21",
+        "Section": "4.2.1 Description of the excipients",
+        "ColumnCount": 2,
+        "RowCount": 5,
+        "Description": "General physical and chemical properties of the three RNA drug substance platforms."
+    },
+    {
+        "TableNumber": 3,
+        "Title": "Composition of drug products",
+        "Pages": "21-22",
+        "Section": "4.2.1 Description of the excipients",
+        "ColumnCount": 1,
+        "RowCount": 22,
+        "Description": "Composition of BNT162 drug products including active substance and excipients."
+    },
+    {
+        "TableNumber": 4,
+        "Title": "Lipid excipients in the drug product",
+        "Pages": "22",
+        "Section": "4.4 Description of the IMP",
+        "ColumnCount": 3,
+        "RowCount": 4,
+        "Description": "Lipid excipients used in the BNT162 drug products and their physicochemical structures."
+    },
+    {
+        "TableNumber": 5,
+        "Title": "Nomenclature used for the BNT162 vaccine candidates",
+        "Pages": "24",
+        "Section": "5.1.1 Primary pharmacodynamics",
+        "ColumnCount": 1,
+        "RowCount": 10,
+        "Description": "Nomenclature and platform designations for BNT162 vaccine candidates."
+    },
+    {
+        "TableNumber": 6,
+        "Title": "Study design",
+        "Pages": "26",
+        "Section": "5.1.3.1 lmmunogenicity of BNT162b1 (modRNA encoding VS)",
+        "ColumnCount": 1,
+        "RowCount": 14,
+        "Description": "Mouse immunogenicity study design overview for BNT162 vaccine candidates."
+    },
+    {
+        "TableNumber": 7,
+        "Title": "IgG antibody concentration [\u00b5g/mL] against the viral antigen in Wistar Han rats",
+        "Pages": "33",
+        "Section": "5.1.5.1 In vivo immunogenicity of BNT162 vaccine candidates after repeated",
+        "ColumnCount": 0,
+        "RowCount": 0,
+        "Description": "IgG antibody concentration results by group and time point \u2014 content is redacted in source PDF."
+    },
+    {
+        "TableNumber": 8,
+        "Title": "Design of the GLP compliant repeat-dose toxicity study (Study No. 38166)",
+        "Pages": "38",
+        "Section": "7 BNT162b2 [VS] 100 \u00b5g",
+        "ColumnCount": 3,
+        "RowCount": 13,
+        "Description": "GLP repeat-dose toxicity study design parameters including species, doses, and schedule."
+    },
+    {
+        "TableNumber": 9,
+        "Title": "Outcomes for parameters assessed in the repeat-dose toxicity study (Study No. 38166)",
+        "Pages": "39-42",
+        "Section": "24 h later.",
+        "ColumnCount": 4,
+        "RowCount": 16,
+        "Description": "Safety and toxicology outcomes assessed across dosing and recovery phases of Study No. 38166."
+    },
+    {
+        "TableNumber": 10,
+        "Title": "Grading of oedema formation",
+        "Pages": "42",
+        "Section": "5.3.1.2 Local tolerance",
+        "ColumnCount": 1,
+        "RowCount": 10,
+        "Description": "Scoring scale for oedema formation grades used in the repeat-dose toxicity study."
+    },
+    {
+        "TableNumber": 11,
+        "Title": "Frequency of highest oedema score noted post first and second vaccine dose in GLP repeated-dose toxicity study (Study No. 38166)",
+        "Pages": "43",
+        "Section": "0 1 2 3 4",
+        "ColumnCount": 1,
+        "RowCount": 24,
+        "Description": "Oedema frequency by grade after first and second vaccine doses in GLP study animals."
+    },
+    {
+        "TableNumber": 12,
+        "Title": "Summary of macroscopic vaccine related findings \u2013 main study (Study No. 38166)",
+        "Pages": "46",
+        "Section": "1 (Control) \u2022 None",
+        "ColumnCount": 1,
+        "RowCount": 10,
+        "Description": "Macroscopic necropsy findings in main study animals \u2014 some group data is redacted."
+    },
+    {
+        "TableNumber": 13,
+        "Title": "Status of ongoing and planned clinical trials (as of August 6th, 2020)",
+        "Pages": "51-52",
+        "Section": "1 \u00b5g 12 subjects (single dose)",
+        "ColumnCount": 3,
+        "RowCount": 9,
+        "Description": "Status, design, and enrollment numbers of all ongoing and planned BNT162 clinical trials."
+    },
+    {
+        "TableNumber": 14,
+        "Title": "BNT162b1 in younger adults - Number of subjects with local symptoms (diary)",
+        "Pages": "59",
+        "Section": "6.1.1.2 Summary of safety in trial BNT162-01 (status July 1st, 2020)",
+        "ColumnCount": 0,
+        "RowCount": 0,
+        "Description": "Local solicited reactions (diary) post prime and boost for BNT162b1 in younger adults \u2014 redacted in source PDF."
+    },
+    {
+        "TableNumber": 15,
+        "Title": "BNT162b1 in younger adults - Number of subjects with systemic symptoms (diary)",
+        "Pages": "60",
+        "Section": "N/A",
+        "ColumnCount": 0,
+        "RowCount": 0,
+        "Description": "Systemic solicited reactions (diary) post prime and boost for BNT162b1 in younger adults \u2014 redacted in source PDF."
+    },
+    {
+        "TableNumber": 16,
+        "Title": "BNT162b1 in younger adults - TEAE (prime +/- boost) by number of subjects",
+        "Pages": "60",
+        "Section": "N/A",
+        "ColumnCount": 0,
+        "RowCount": 0,
+        "Description": "Treatment-emergent adverse events (TEAE) for BNT162b1 in younger adults \u2014 redacted in source PDF."
+    },
+    {
+        "TableNumber": 17,
+        "Title": "BNT162b2 in younger adults - Number of subjects with local symptoms (diary)",
+        "Pages": "61",
+        "Section": "30 UC 12 9 0 - - -",
+        "ColumnCount": 8,
+        "RowCount": 4,
+        "Description": "Local solicited reactions diary data for BNT162b2 in younger adults post prime and boost."
+    },
+    {
+        "TableNumber": 18,
+        "Title": "BNT162b2 in younger adults - Number of subjects with systemic symptoms (diary)",
+        "Pages": "61",
+        "Section": "30 UC 12 9 0 - - -",
+        "ColumnCount": 8,
+        "RowCount": 4,
+        "Description": "Systemic solicited reactions diary data for BNT162b2 in younger adults post prime and boost."
+    },
+    {
+        "TableNumber": 19,
+        "Title": "Tabular summaries of non-clinical studies - primary pharmacodynamic effects",
+        "Pages": "86",
+        "Section": "N/A",
+        "ColumnCount": 0,
+        "RowCount": 0,
+        "Description": "Appendix table summarising primary pharmacodynamic study results \u2014 content is redacted or image-based in source PDF."
+    }
+]

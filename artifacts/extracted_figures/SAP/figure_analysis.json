@@ -1,0 +1,21 @@
+[
+  {
+    "figure_id": "SAP_Fig_48_1",
+    "source_pdf": "SAP.pdf",
+    "page_number": 48,
+    "filename": "SAP_pg48.png",
+    "figure_label": "Figure 1",
+    "title": "Figure 1.Multiplicity Schema",
+    "description": "Figure 1.Multiplicity Schema",
+    "bbox": [
+      0.0,
+      67.47,
+      612.0,
+      305.92
+    ],
+    "extraction_info": {
+      "method": "Manual-Pattern",
+      "timestamp": "2026-03-05T20:45:00Z"
+    }
+  }
+]
